@@ -1,9 +1,9 @@
 # Twitter Sentiment Analysis using Logistic Regression
 
 ## Project Overview
-This project performs **sentiment analysis** on tweets using **Logistic Regression**. The model classifies tweets as **Positive ** or **Negative ** based on their textual content. The dataset consists of tweets with labeled sentiments, and the model is trained using **TF-IDF vectorization** combined with additional extracted features.
+This project performs **sentiment analysis** on tweets using **Logistic Regression**. The model classifies tweets as **Positive** or **Negative** based on their textual content. The dataset consists of tweets with labeled sentiments, and the model is trained using **TF-IDF vectorization** combined with additional extracted features.
 
-##Features
+## Features
 - Preprocesses tweets using **TF-IDF vectorization**
 - Implements **Logistic Regression** for classification
 - Extracts additional features (tweet length, punctuation count, etc.)
